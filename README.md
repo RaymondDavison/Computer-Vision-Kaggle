@@ -1,4 +1,4 @@
-# Computer-Vision-Kaggle
+# [Computer-Vision-Kaggle](https://www.kaggle.com/learn/computer-vision)
 Create image classifiers with TensorFlow and Keras, and explore convolutional neural networks
 
 #### Use modern deep-learning networks to build an image classifier with Keras
